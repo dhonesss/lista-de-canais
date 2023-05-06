@@ -1,0 +1,340 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Agro Brasil",Agro Brasil
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ALLSPORTS",ALLSPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AMAZONSAT",AMAZONSAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AMAZONSAT",AMAZONSAT
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BAND",BAND
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BAND",BAND
+https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-eMApr2XmAVLnvJapO_x1z_cFoqItWC95ZICLzXKgZ5V)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
+
+
+#EXTINF:-1 tvg-logo="" group-title="CABO FRIO",CABO FRIO
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAL RICO",CANAL RICO
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATVEFM ",CATVEFM
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATVEFM1",CATVEFM1
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="MASTER TV",MASTER TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CHROMA TV",CHROMA TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CNN",CNN
+https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ELEMENTAL CHANEL",ELEMENTAL CHANEL
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/eparana.png" group-title="CANAL ABERTO", E-PARANÁ
+http://200.189.113.201/hls/tve.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="FALA LITORAL",FALA LITORAL
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="FONTE TV",FONTE TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV JOVEM PAN",TV JOVEM PAN
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV MY TIME",TV MY TIME
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV NOVA ERA",TV NOVA ERA
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOVO TEMPO",NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="PLUTO ANIME",PLUTOANIME
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="" group-title="CINE DRAMA TV PLUTO",CINE DRAMA TV PLUTO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="" group-title="CINE COMEDIA",CINE COMEDIA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=
+
+
+#EXTINF:-1 tvg-logo="" group-title="PLUTO ANIME",PLUTOANIME
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+#EXTINF:-1 tvg-logo="" group-title="CINE FAMILIA TV PLUTO",CINE FAMILIA TV PLUTO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+#EXTINF:-1 tvg-logo="" group-title="NICK PLUTO TV",NICK PLUTO TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+
+
+#EXTINF:-1 tvg-logo="" group-title="INVESTIGAÇÃO PLUTO TV",INVESTIGAÇÃO PLUTO TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+#EXTINF:-1 tvg-logo="" group-title="NOVOTEMPOO",NOVO TEMPOO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+#EXTINF:-1 tvg-logo="" group-title="RETRO PLUTO TV",RETRO PLUTO TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CLASSIC NICK PLUTO TV",CLASSIC NICK PLUTO TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="PRIMER",PRIMER
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="REDE BRASIL TV ",REDE BRASIL TV
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOVO TEMPO",NOVO TEMPO
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="REDE MAIS",REDE MAISS
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="REDE TVPB",REDE TVPB
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w2070593889_b2426125.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="REDE QDM",REDE QDM
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="REDE RC",REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SBT",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="REDE TV ",REDE TV
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="REDE VIDA",REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="RPT",RPT1
+http://162.212.178.69:41042/bysid/608
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV SANTA CECILIA",TV SANTA CECILIA
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SBT PIAUI",SBT PIAUI
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SERTAO TV",SERTAO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SESC TV",SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SIC TV",SIC TV
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SBT",SBT
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/bemtv.png" group-title="CANAL ABERTO", SBT MT - BEM TV
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="TV CULTURA",TV CULTURA
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1766700799.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV REDE RECORD",TV REDE RECORD
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w965952635.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title=",TERRA VIVA"TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TNT SPORT 4 ",TNT SPORT 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="TNT SPORT 5",TNT SPORT 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TRACE URBAN",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV BRASIL OESTE",TV BRASIL OESTE 
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV LUAR SERTANEJO ",TV LUAR SERTANEJO
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV CLUBE",TV CLUBE
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV CN AGITOS",TV CN AGITOS
+http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DESTAQUE FILMES",DESTAQUE FILMES
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="NOVO TEMPO",NOVO TEMPO
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BRIGUI",TV BRIGUI
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV DIVERSA",TV DIVERSA
+https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV RR",TV RR
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="REDE TV MAIS",REDE TV MAIS
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV GRANDE NATAL",TV GRANDE NATAL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV JUSTIÇA",TV JUSTIÇA
+https://ythls.onrender.com/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV MAIS BRASIL",TV MAIS BRASIL
+http://sevensp.homelinux.com/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV MAX",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PAI ETERNO",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV BRASIL1",TV BRASIL1
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV CAMOCIM",TV CAMOCIM MUSICAS
+https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV AGUA BOA FILMES",TV AGUA BOA FILMES
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="REDE TV",REDE TV
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6048fc47a44e540007745d2b/3063648/playlist.m3u8?terminate=false&sid=bfe9381e-e75e-11ed-be8c-523ba837fe21&deviceDNT=0&deviceLat=-6.9199&deviceLon=-38.5733&deviceModel=web&deviceVersion=109.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=24f30781-57fe-4cd3-953e-0dbf21a6680f&appVersion=6.12.0-f0d96ffee2cf8f5e97a2080a7de151de1d1ed6df&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZlMWNjNWExLTUxNWYtNGRiMC1hMzYzLTcyNDE3OGJhZjdjNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiZmU5MzgxZS1lNzVlLTExZWQtYmU4Yy01MjNiYTgzN2ZlMjEiLCJjbGllbnRJUCI6IjE3Ny4xMi4xMDIuMTkiLCJjaXR5IjoiQ2FqYXplaXJhcyIsInBvc3RhbENvZGUiOiI1ODkwMCIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi02LjkxOTksImRldmljZUxvbiI6LTM4LjU3MzMsInByZWZlcnJlZExhbmd1YWdlIjoicHQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwOS4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMTIuMC1mMGQ5NmZmZWUyY2Y4ZjVlOTdhMjA4MGE3ZGUxNTFkZTFkMWVkNmRmIiwiY2xpZW50SUQiOiIyNGYzMDc4MS01N2ZlLTRjZDMtOTUzZS0wZGJmMjFhNjY4MGYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Gb3J0YWxlemEiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6TWpSbU16QTNPREV0TlRkbVpTMDBZMlF6TFRrMU0yVXRNR1JpWmpJeFlUWTJPREJtIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY4Mjk0OTM2NSwiaWF0IjoxNjgyODYyOTY1LCJqdGkiOiJkNTQzOWRiMS01MjNhLTQyN2UtODliMi01YjBhMjIxZjc3ODgifQ.JD8zk57Wkjo2268xiQ2rMByoOKwMWe1QPr2-D0bHsJY&CMCD=mtp%3D6600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%227c1d28bc-9762-4498-ae4b-d2cf5bf50572%22
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CINE TERROR",CINE TERROR
+
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=6.12.0-f0d96ffee2cf8f5e97a2080a7de151de1d1ed6df&app_name=web&clientDeviceType=0&clientID=24f30781-57fe-4cd3-953e-0dbf21a6680f&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=24f30781-57fe-4cd3-953e-0dbf21a6680f&deviceLat=-6.9199&deviceLon=-38.5733&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=109.0.0&marketingRegion=BR&serverSideAds=true&sessionID=bfe9381e-e75e-11ed-be8c-523ba837fe21&sid=bfe9381e-e75e-11ed-be8c-523ba837fe21&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZlMWNjNWExLTUxNWYtNGRiMC1hMzYzLTcyNDE3OGJhZjdjNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiZmU5MzgxZS1lNzVlLTExZWQtYmU4Yy01MjNiYTgzN2ZlMjEiLCJjbGllbnRJUCI6IjE3Ny4xMi4xMDIuMTkiLCJjaXR5IjoiQ2FqYXplaXJhcyIsInBvc3RhbENvZGUiOiI1ODkwMCIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi02LjkxOTksImRldmljZUxvbiI6LTM4LjU3MzMsInByZWZlcnJlZExhbmd1YWdlIjoicHQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwOS4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMTIuMC1mMGQ5NmZmZWUyY2Y4ZjVlOTdhMjA4MGE3ZGUxNTFkZTFkMWVkNmRmIiwiY2xpZW50SUQiOiIyNGYzMDc4MS01N2ZlLTRjZDMtOTUzZS0wZGJmMjFhNjY4MGYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Gb3J0YWxlemEiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6TWpSbU16QTNPREV0TlRkbVpTMDBZMlF6TFRrMU0yVXRNR1JpWmpJeFlUWTJPREJtIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY4Mjk0OTM2NSwiaWF0IjoxNjgyODYyOTY1LCJqdGkiOiJkNTQzOWRiMS01MjNhLTQyN2UtODliMi01YjBhMjIxZjc3ODgifQ.JD8zk57Wkjo2268xiQ2rMByoOKwMWe1QPr2-D0bHsJY&masterJWTPassthrough=true&includeExtendedEvents=true&eventVOD=true&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220622a4cd-b170-40ed-ac33-4eba753b95bf%22%2Csu
+
+#EXTINF:-1 tvg-logo="" group-title="CINE FICÇAO CIENTIFICA",CINE FICÇAO CIENTIFICA
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId=&appName=web&appVersion=6.12.0-f0d96ffee2cf8f5e97a2080a7de151de1d1ed6df&app_name=web&clientDeviceType=0&clientID=24f30781-57fe-4cd3-953e-0dbf21a6680f&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=24f30781-57fe-4cd3-953e-0dbf21a6680f&deviceLat=-6.9199&deviceLon=-38.5733&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=109.0.0&marketingRegion=BR&serverSideAds=true&sessionID=bfe9381e-e75e-11ed-be8c-523ba837fe21&sid=bfe9381e-e75e-11ed-be8c-523ba837fe21&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZlMWNjNWExLTUxNWYtNGRiMC1hMzYzLTcyNDE3OGJhZjdjNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiZmU5MzgxZS1lNzVlLTExZWQtYmU4Yy01MjNiYTgzN2ZlMjEiLCJjbGllbnRJUCI6IjE3Ny4xMi4xMDIuMTkiLCJjaXR5IjoiQ2FqYXplaXJhcyIsInBvc3RhbENvZGUiOiI1ODkwMCIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi02LjkxOTksImRldmljZUxvbiI6LTM4LjU3MzMsInByZWZlcnJlZExhbmd1YWdlIjoicHQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwOS4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMTIuMC1mMGQ5NmZmZWUyY2Y4ZjVlOTdhMjA4MGE3ZGUxNTFkZTFkMWVkNmRmIiwiY2xpZW50SUQiOiIyNGYzMDc4MS01N2ZlLTRjZDMtOTUzZS0wZGJmMjFhNjY4MGYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Gb3J0YWxlemEiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6TWpSbU16QTNPREV0TlRkbVpTMDBZMlF6TFRrMU0yVXRNR1JpWmpJeFlUWTJPREJtIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY4Mjk0OTM2NSwiaWF0IjoxNjgyODYyOTY1LCJqdGkiOiJkNTQzOWRiMS01MjNhLTQyN2UtODliMi01YjBhMjIxZjc3ODgifQ.JD8zk57Wkjo2268xiQ2rMByoOKwMWe1QPr2-D0bHsJY&masterJWTPassthrough=true&includeExtendedEvents=true&eventVOD=true&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22fc94a845-1e63-447a-b74c-0f2f9628ce89%22%2Csu
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="MTV",MTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CINE FAMILIA",CINE FAMILIA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CINE INVESTIGAÇAO",CINE INVESTIGAÇAO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="" group-title="BLOOMBERG",BLOOMBERG
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="BOA VONTADE",BOA VONTADE
+https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CARTOON NETWORK",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TOON",TOON
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="CARTOONITO",CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CARTOONNETWORK2",CARTOONNETWORK2
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CARTOON3",CARTOON
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TNT sport",TNT sport
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+
+
+
+
+
